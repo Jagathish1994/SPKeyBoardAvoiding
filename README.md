@@ -1,5 +1,5 @@
 # SPKeyBoardAvoiding
-It's a smart KeyBoard manager with active text field in Swift 3
+It's a smart KeyBoard manager with active text field in Swift 4
 
 ![Screenshot](https://github.com/ssowri1/SPKeyBoardAvoiding/blob/master/ScreenShot.gif?raw=true)
 
@@ -12,7 +12,7 @@ Drag and drop the SPKeyBoardAvoiding scrollview sub class to your project.
 
 ### Step II
 
-Change your scrollview class name as # SPKeyBoardAvoiding in storyboard which containds bundles of textfields. And create the instance of your scrollview as such as,
+Change your scrollview class name as SPKeyBoardAvoiding in storyboard which containds bundles of textfields. And create the instance of your scrollview as such as,
 
     @IBOutlet weak var scrollView: SPKeyBoardAvoiding!
 
