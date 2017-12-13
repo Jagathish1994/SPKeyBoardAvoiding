@@ -5,14 +5,17 @@ It's a smart KeyBoard manager with active text field using ScrollView alongwith 
 
 ## Installation
 
+
 ### Step I
 Drag and drop the SPKeyBoardAvoiding scrollview sub class to your project.
+
 
 
 ### Step II
 Change your scrollview class name as SPKeyBoardAvoiding in storyboard which containds bundles of textfields. And create the instance of your scrollview as such as,
 
     @IBOutlet weak var scrollView: SPKeyBoardAvoiding!
+
 
 
 ### Step III
